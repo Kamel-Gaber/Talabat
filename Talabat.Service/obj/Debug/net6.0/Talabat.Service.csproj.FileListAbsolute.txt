@@ -1,0 +1,12 @@
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll

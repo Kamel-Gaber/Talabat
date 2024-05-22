@@ -1,0 +1,23 @@
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+F:\programing\csharpe\API\Talabat.G01.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+D:\dotnet\GIT pROJECT\Talabat.G01.Solution-main\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
